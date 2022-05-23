@@ -61,6 +61,13 @@ p {
 .lablec a {
 	margin: auto;
 	line-height: 50px;
+	color: #fff;
+	font-weight: bold;
+}
+
+.lablec a:hover{
+	color: #ff0000;
+	text-decoration: none;
 }
 
 td {
