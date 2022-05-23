@@ -2,6 +2,14 @@ header img {
 	width: 100vw;
 }
 
+body{
+	background: #d3f3ff;
+}
+
+p{
+	text-align: justify;
+}
+
 tr{
 	border: 2px solid rgb(14, 78, 104);
 }
@@ -56,6 +64,8 @@ p {
 .gomb:hover {
 	border: 1px solid rgb(14, 78, 104);
 	border-radius: 0.25rem;
+	color: rgb(14, 78, 104);
+	background-color: #fff;
 }
 
 .lablec {
